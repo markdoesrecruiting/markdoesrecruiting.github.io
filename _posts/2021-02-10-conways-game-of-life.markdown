@@ -82,3 +82,5 @@ for cell in alive_neighbors:
 <p>Notice that since I am keeping an array of the coordinates of only the cells who are alive, I could apply just 3 rules, die of loneliness, die of overpopulation and become alive from reproduction (exactly 3 alive neighbors) because the ones who have 2 or 3 neighbors and are already alive, can remain alive in the next iteration.</p>
 
 <p>I&nbsp;found it very interesting to implement the Game of Life like this, it was quite a refreshing challenge and I am beginning to feel my coding skills ramping up again.</p>
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdfowbZVf9BOPRRAk6tvXe0Hxol0ry-phMWoUMD48vxNIx3ig/viewform?embedded=true" width="640" height="991" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
